@@ -1,0 +1,111 @@
+#bts{
+    color: brown;
+    text-align: center;
+    font-size: 30px;
+    text-decoration: underline;
+    background-color: rgb(158, 239, 245);
+}
+
+
+
+h1{
+    text-align : center;
+}
+
+.hello{
+    text-align : center;
+}
+
+
+
+
+.kimchi-row {
+    display: flex;              
+    justify-content: center;    
+    gap: 70px;                 
+    margin: 10px 0;
+}
+
+.kimchi-row img {
+    width: 500px;   
+    height: 300px;
+    border-radius: 15px;
+}
+
+
+
+
+
+#ss{
+    color: brown;
+    text-align: center; 
+    font-size: 30px;
+    text-decoration: underline;
+    background-color: aquamarine;
+    
+}
+
+p{
+    font-size: 25px;
+
+
+}
+h2{
+font-size: 35px;
+}
+
+
+
+.ramen-row{
+    display: flex;              
+    justify-content: center;    
+    gap: 70px;                 
+    margin: 10px 0;
+}
+
+
+.ramen-row img{
+    width: 500px;   
+    height: 40o0px;
+    border-radius: 15px;
+}
+
+p{
+    font-size: 25;
+}
+h3{
+    font-size: 35px;
+
+}
+#vv{color: brown;
+    text-align: center; 
+    font-size: 30px;
+    text-decoration: underline;
+    background-color: aquamarine;
+}
+
+.mochi-row{
+    display: flex;              
+    justify-content: center;    
+    gap: 70px;                 
+    margin: 10px 0;
+}
+
+
+.mochi-row img{
+    width: 500px;   
+    height: 40o0px;
+    border-radius: 15px;
+}
+
+    
+h5{
+color:brown;
+    text-align: center; 
+    font-size: 30px;
+    text-decoration: underline;
+    background-color: rgb(162, 238, 243);
+}
+body {
+    background-color: #f184be; /* Baby Pink */
+}
